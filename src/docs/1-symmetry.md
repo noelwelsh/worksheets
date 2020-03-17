@@ -5,7 +5,7 @@ What do you think symmetry means? Come up with your own definition and then read
 
 ## Defining Symmetry
 
-We can say something is symmetric if it says that same when we transform it in some way. For example, the triangle below is symmetric when we flip it, but not when we rotate it by 180 degrees. A square, however, is symmetric under both transformations: flipping and rotating by 180 degrees.
+We can say something is symmetric if it stays the same when we transform it in some way. For example, the triangle below is symmetric when we flip it, but not when we rotate it by 180 degrees. A square, however, is symmetric under both transformations: flipping and rotating by 180 degrees.
 
 ![A isoceles triangle flipped and rotated](img/1-triangle.png)
 
@@ -36,7 +36,7 @@ What is the angle between the blue and the green line?
 
 ![](img/1-one-eighty.png)
 
-Here we see two angles. We don't know what the individual angles are, but we know what they sum up to. What is it that the sum up to?
+Here we see two angles. We don't know what the individual angles are, but we know what they sum up to. What is it that they sum up to?
 
 ![](img/1-two-angles.png)
 
@@ -56,3 +56,5 @@ Congratulations, you have completed your first proof: you have proved the interi
 Now let's look at a triangle. Any triangle will do. What shape do we get if we reflect a triangle around one edge? There is an example below. What does this tell us about the sum of the interior angles of a triangle?
 
 ![A triangle reflected around an edge](img/1-enscribed-triangle.png)
+
+What do the interior angles of a triangle sum to?
