@@ -46,6 +46,8 @@ Here we have three lines that make two angles: the angle between the green and b
 
 Here we see a parallelogram. What do the angles inside the parallelogram add up to? How do we know this is the case? *Pro tip:* use symmetry and it might be helpful to extend some of the lines to make the parallelogram look like the previous image.
 
+![A parallelogram](img/1-parallelogram.png)
+
 Congratulations, you have completed your first proof: you have proved the interior angles of the parallelogram sum to ... what do they sum to? You figured it out, not me!
 
 
