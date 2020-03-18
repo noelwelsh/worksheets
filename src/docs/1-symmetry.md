@@ -21,7 +21,7 @@ In this worksheet we will work towards proving this fact about triangles.
 Back to symmetry. We saw the triangle above is symmetric when we flip it around the y axis. This tells us many things about the triangle:
 
 - the blue and red line have the same length; and
-- the angle between the blue and green line is the same as the angle between the green and blue line.
+- the angle between the blue and green line is the same as the angle between the green and red line.
 
 Symmetry is all we need to know this!
 
